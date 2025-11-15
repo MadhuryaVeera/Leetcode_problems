@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0169-majority-element) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0169-majority-element) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## String
 |  |
@@ -17,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0169-majority-element) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Dynamic Programming
 |  |
@@ -26,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
