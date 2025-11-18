@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0645-set-mismatch) |
+| [1018-largest-perimeter-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0645-set-mismatch) |
+| [1018-largest-perimeter-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Dynamic Programming
 |  |
@@ -51,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0645-set-mismatch) |
+## Math
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1018-largest-perimeter-triangle) |
+## Greedy
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
