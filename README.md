@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sorting
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0125-valid-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
