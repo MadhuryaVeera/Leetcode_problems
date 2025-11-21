@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0027-remove-element) |
+| [0120-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0645-set-mismatch) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
+| [0120-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0120-triangle) |
 ## Stack
 |  |
 | ------- |
