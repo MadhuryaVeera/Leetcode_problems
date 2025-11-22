@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0120-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0120-triangle) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Stack
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0645-set-mismatch) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Math
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Memoization
+|  |
+| ------- |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
