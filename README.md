@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0027-remove-element) |
 | [0120-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1018-largest-perimeter-triangle) |
@@ -25,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0179-largest-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1018-largest-perimeter-triangle) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0179-largest-number) |
 | [1018-largest-perimeter-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1018-largest-perimeter-triangle) |
 ## Simulation
 |  |
