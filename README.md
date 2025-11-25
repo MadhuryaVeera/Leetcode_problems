@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1018-largest-perimeter-triangle) |
+| [2485-find-the-pivot-integer](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2485-find-the-pivot-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Greedy
 |  |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
