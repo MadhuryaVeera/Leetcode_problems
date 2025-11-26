@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0202-happy-number) |
 | [0645-set-mismatch](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0202-happy-number) |
 | [1018-largest-perimeter-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1018-largest-perimeter-triangle) |
 | [2485-find-the-pivot-integer](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2485-find-the-pivot-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
