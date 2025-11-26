@@ -95,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2485-find-the-pivot-integer) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
