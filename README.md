@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0027-remove-element) |
 | [0120-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0169-majority-element) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0179-largest-number) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0175-combine-two-tables) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
