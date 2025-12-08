@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0202-happy-number) |
 | [1018-largest-perimeter-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1018-largest-perimeter-triangle) |
+| [1925-count-square-sum-triples](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1925-count-square-sum-triples) |
 | [2485-find-the-pivot-integer](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2485-find-the-pivot-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
