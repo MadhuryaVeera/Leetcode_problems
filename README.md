@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2363-merge-similar-items](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2363-merge-similar-items) |
 | [2974-minimum-number-game](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2974-minimum-number-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2363-merge-similar-items](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2363-merge-similar-items) |
 ## String
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2363-merge-similar-items](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2363-merge-similar-items) |
 | [2974-minimum-number-game](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
 |  |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
