@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0645-set-mismatch) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1018-largest-perimeter-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2363-merge-similar-items) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
