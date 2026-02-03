@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1018-largest-perimeter-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1018-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0645-set-mismatch](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0645-set-mismatch) |
+| [1122-relative-sort-array](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1018-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
