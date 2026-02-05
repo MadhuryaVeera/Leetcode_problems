@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0205-isomorphic-strings) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0125-valid-palindrome) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0202-happy-number) |
 | [1018-largest-perimeter-triangle](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1018-largest-perimeter-triangle) |
 | [1925-count-square-sum-triples](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1925-count-square-sum-triples) |
