@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2363-merge-similar-items) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2974-minimum-number-game](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2363-merge-similar-items) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
 | ------- |
