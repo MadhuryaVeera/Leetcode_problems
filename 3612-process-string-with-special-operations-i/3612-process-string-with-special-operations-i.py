@@ -9,7 +9,7 @@ class Solution:
                     res=res[:-1]
             elif ch=="#":
                 res+=res
-            else:
+            else: # %
                 res=res[::-1]
         return res
 
