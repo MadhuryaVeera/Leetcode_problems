@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3612-process-string-with-special-operations-i](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/3612-process-string-with-special-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/3612-process-string-with-special-operations-i) |
 ## Memoization
 |  |
 | ------- |
