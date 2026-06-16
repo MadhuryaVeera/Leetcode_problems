@@ -1,17 +1,15 @@
 class Solution:
     def processStr(self, s: str) -> str:
-        res =""
+        res =[] # list method 2
         for ch in s:
             if ch.isalpha():
-                res+=ch
+                res.append(ch)
             elif ch=="*":
                 if res:
-                    res=res[:-1]
+                    res.pop()
             elif ch=="#":
-                res+=res
-            else: # %
-                res=res[::-1]
-        return res
-
-
+                res.extend(res)
+            else:
+                res.reverse()
+        return "".join(res)
         
