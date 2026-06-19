@@ -1,6 +1,6 @@
 class Solution:
     def largestAltitude(self, gain: List[int]) -> int:
-        
+        # Brute Force approach 
         altitude=[0] # at a point 0 every start elemnt has at 0 index 0 is fix we are taking
 
         for g in gain:
