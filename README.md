@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1732-find-the-highest-altitude](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2363-merge-similar-items) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Database
