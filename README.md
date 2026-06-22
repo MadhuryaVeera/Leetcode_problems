@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0645-set-mismatch](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1122-relative-sort-array) |
+| [1189-maximum-number-of-balloons](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1189-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0205-isomorphic-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1189-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3612-process-string-with-special-operations-i](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/3612-process-string-with-special-operations-i) |
 ## Sorting
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/MadhuryaVeera/Leetcode_problems/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
 | ------- |
